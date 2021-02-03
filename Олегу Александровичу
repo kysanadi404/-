@@ -1,0 +1,28 @@
+body {
+    background-color: #000080;
+    color: yellow;
+}
+
+h1 {
+    color: #EE8860;
+}
+p {
+    
+    line-height: 1.25;
+    margin: 4em;
+    text-align: justify;
+}
+
+
+div {
+    outline: 4px dashed orange;
+}
+
+.first {
+    color: red;
+    font-weight: bold;
+    border-left: 5px solid beige;
+}
+li.first {
+	font-size: 24px
+}
